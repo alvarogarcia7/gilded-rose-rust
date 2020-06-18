@@ -1,3 +1,7 @@
+# Gilded Rose Kata, in Rust
+
+Description: https://github.com/emilybache/GildedRose-Refactoring-Kata
+
 ## Usage
 
 My flow is as follows:
